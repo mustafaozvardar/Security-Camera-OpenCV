@@ -36,7 +36,7 @@ This is a simple Python-based security camera application that uses motion detec
 1. Run the script:
 
     ```bash
-    python motion_detection_camera.py
+    python security_camera.py
     ```
 
 2. The application will start capturing video from your webcam. When it detects significant motion, it will trigger a beep sound to alert you.
